@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg11" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #89d329;
+      }
+
+      .st1 {
+        fill: #10384f;
+      }
+
+      .st2 {
+        fill: #00bcff;
+      }
+    </style>
+  </defs>
+  <sodipodi:namedview id="namedview13" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg11" inkscape:cx="643.08968" inkscape:cy="457.81297" inkscape:measure-end="0,0" inkscape:measure-start="0,0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="705" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.35355339" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
+  <g id="g43">
+    <g id="g975">
+      <path id="path6" class="st0" d="M909.4,474.1c-13-213.9-191.2-384.6-409.4-384.6S103.5,260.2,90.6,474.1c0,8.6,1.1,17.3,2.2,25.9,8.6,71.3,35.7,137.2,76.7,192.3,74.5,101.6,194.5,167.5,330.6,167.5-190.1,0-345.7-148-358.7-333.8-1.1-8.6-1.1-17.3-1.1-25.9s0-17.3,1.1-25.9c13-185.8,168.5-333.8,358.7-333.8s256,65.9,330.6,167.5c41.1,55.1,68.1,121,76.7,192.3,1.1,8.6,2.2,17.3,2.2,24.8,0-8.6,1.1-17.3,1.1-25.9s0-16.2-1.1-24.8" inkscape:connector-curvature="0"/>
+      <path id="path8" class="st2" d="M90.6,525.9c13,213.9,191.2,384.6,409.4,384.6s396.5-170.7,409.4-384.6c0-8.6-1.1-17.3-2.2-25.9-8.6-71.3-35.7-137.2-76.7-192.3-74.5-101.6-194.5-167.5-330.6-167.5,190.1,0,345.7,148,358.7,333.8,1.1,8.6,1.1,17.3,1.1,25.9s0,17.3-1.1,25.9c-13,186.9-168.5,333.8-358.7,333.8s-256-65.9-330.6-167.5c-41.1-55.1-68.1-121-76.7-192.3-1.1-8.6-2.2-17.3-2.2-24.8,0,8.6-1.1,17.3-1.1,25.9s0,16.2,1.1,24.8" inkscape:connector-curvature="0"/>
+    </g>
+    <g id="g28">
+      <path id="path858" class="st1" d="M449.2,168.3v113.4h78.9c19.4,0,34.6-15.1,34.6-34.6s-4.3-18.4-10.8-24.8c4.3-5.4,7.6-13,8.6-20.5,0-18.4-15.1-33.5-33.5-33.5h-77.8ZM475.2,192.1h47.5c5.4,0,9.7,4.3,9.7,9.7s-4.3,9.7-9.7,9.7h-47.5v-19.4ZM475.2,235.3h48.6c6.5,0,10.8,4.3,10.8,10.8s-4.3,10.8-10.8,10.8h-48.6v-21.6Z" inkscape:connector-curvature="0"/>
+      <path id="path852" class="st1" d="M487,303.4l-56.2,113.4h29.2l8.6-19.4h63.7l8.6,19.4h29.2l-57.3-113.4h-25.9ZM500,332.5l19.4,41.1h-38.9l19.4-41.1Z" inkscape:connector-curvature="0"/>
+      <path id="path848" class="st1" d="M538.9,441.7h32.4l-57.3,73.5v40h-27v-40l-57.3-73.5h32.4l38.9,51.9,37.8-51.9Z" inkscape:connector-curvature="0"/>
+      <path id="path844" class="st1" d="M724.7,441.7v113.4h27v-43.2h20.5l32.4,43.2h32.4l-33.5-44.3c14-4.3,24.8-17.3,24.8-33.5s-15.1-35.7-34.6-35.7h-69.1ZM752.8,465.4h38.9c5.4,0,10.8,5.4,10.8,10.8s-4.3,10.8-10.8,10.8h-38.9v-21.6Z" inkscape:connector-curvature="0"/>
+      <path id="path858-0" class="st1" d="M172.7,441.7v113.4h78.9c19.4,0,34.6-15.1,34.6-34.6s-4.3-18.4-10.8-24.8c4.3-5.4,7.6-13,8.6-20.5,0-18.4-15.1-33.5-33.5-33.5h-77.8ZM198.6,465.4h47.5c5.4,0,9.7,4.3,9.7,9.7s-4.3,9.7-9.7,9.7h-47.5v-19.4ZM198.6,508.6h48.6c6.5,0,10.8,4.3,10.8,10.8s-4.3,10.8-10.8,10.8h-48.6v-21.6Z" inkscape:connector-curvature="0"/>
+      <path id="path852-8" class="st1" d="M358.5,441.7l-56.2,113.4h29.2l8.6-19.4h63.7l8.6,19.4h29.2l-57.3-113.4h-25.9ZM371.4,470.8l19.4,41.1h-38.9l19.4-41.1Z" inkscape:connector-curvature="0"/>
+      <path id="path830-7" class="st1" d="M689.1,441.7v24.4h-75.6v19.1h73.5v24.4h-73.5v21.2h75.6v24.4h-102.6v-113.4h102.6Z" inkscape:connector-curvature="0"/>
+      <path id="path844-7" class="st1" d="M448.1,720.4v113.4h27v-43.2h20.5l32.4,43.2h32.4l-33.5-44.3c14-4.3,24.8-17.3,24.8-33.5s-15.1-35.7-34.6-35.7h-69.1ZM476.2,744.2h38.9c5.4,0,10.8,5.4,10.8,10.8s-4.3,10.8-10.8,10.8h-38.9v-21.6Z" inkscape:connector-curvature="0"/>
+      <path id="path830-7-6" class="st1" d="M551.9,579.7v24.4h-75.6v19.1h73.5v24.4h-73.5v21.2h75.6v24.4h-102.6v-113.4h102.6Z" inkscape:connector-curvature="0"/>
+    </g>
+  </g>
+</svg>
